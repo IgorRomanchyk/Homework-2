@@ -2,7 +2,7 @@
     width: 100%;
 }
 
-.download__wrapper {
+#download__wrapper {
     text-align: center;
     padding: 100px 0;
 }

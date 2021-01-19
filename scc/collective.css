@@ -2,7 +2,7 @@
     width: 100%;
 }
 
-.collective__body {
+#collective__body {
     display: flex;
     justify-content: center;
     margin: 0 -15px;

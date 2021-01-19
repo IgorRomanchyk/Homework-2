@@ -2,7 +2,7 @@
     width: 100%;
 }
 
-.photo__body {
+#photo__body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 1fr);

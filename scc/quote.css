@@ -2,7 +2,7 @@
     width: 100%;
 }
 
-.quote__body {
+#quote__body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     /* min-width: 0 */;
